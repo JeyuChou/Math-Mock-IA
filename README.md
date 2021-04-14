@@ -1,0 +1,1 @@
+This is an investigation I did for my math class on the Tower of Hanoi. Although it is quite a simple problme, through it I've learned immensely about recursion in programming, as well as learning to utilize matplotlib in python to draw out diagrams and to use Latex effectively for communication. 
